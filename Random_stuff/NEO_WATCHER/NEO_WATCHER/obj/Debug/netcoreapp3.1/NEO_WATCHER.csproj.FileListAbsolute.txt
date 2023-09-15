@@ -1,0 +1,14 @@
+C:\Users\eduar\Documents\GitHub\Useful_Stuff\NEO_WATCHER\NEO_WATCHER\bin\Debug\netcoreapp3.1\NEO_WATCHER.exe
+C:\Users\eduar\Documents\GitHub\Useful_Stuff\NEO_WATCHER\NEO_WATCHER\bin\Debug\netcoreapp3.1\NEO_WATCHER.deps.json
+C:\Users\eduar\Documents\GitHub\Useful_Stuff\NEO_WATCHER\NEO_WATCHER\bin\Debug\netcoreapp3.1\NEO_WATCHER.runtimeconfig.json
+C:\Users\eduar\Documents\GitHub\Useful_Stuff\NEO_WATCHER\NEO_WATCHER\bin\Debug\netcoreapp3.1\NEO_WATCHER.runtimeconfig.dev.json
+C:\Users\eduar\Documents\GitHub\Useful_Stuff\NEO_WATCHER\NEO_WATCHER\bin\Debug\netcoreapp3.1\NEO_WATCHER.dll
+C:\Users\eduar\Documents\GitHub\Useful_Stuff\NEO_WATCHER\NEO_WATCHER\bin\Debug\netcoreapp3.1\NEO_WATCHER.pdb
+C:\Users\eduar\Documents\GitHub\Useful_Stuff\NEO_WATCHER\NEO_WATCHER\obj\Debug\netcoreapp3.1\NEO_WATCHER.csproj.AssemblyReference.cache
+C:\Users\eduar\Documents\GitHub\Useful_Stuff\NEO_WATCHER\NEO_WATCHER\obj\Debug\netcoreapp3.1\NEO_WATCHER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\GitHub\Useful_Stuff\NEO_WATCHER\NEO_WATCHER\obj\Debug\netcoreapp3.1\NEO_WATCHER.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\GitHub\Useful_Stuff\NEO_WATCHER\NEO_WATCHER\obj\Debug\netcoreapp3.1\NEO_WATCHER.AssemblyInfo.cs
+C:\Users\eduar\Documents\GitHub\Useful_Stuff\NEO_WATCHER\NEO_WATCHER\obj\Debug\netcoreapp3.1\NEO_WATCHER.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\GitHub\Useful_Stuff\NEO_WATCHER\NEO_WATCHER\obj\Debug\netcoreapp3.1\NEO_WATCHER.dll
+C:\Users\eduar\Documents\GitHub\Useful_Stuff\NEO_WATCHER\NEO_WATCHER\obj\Debug\netcoreapp3.1\NEO_WATCHER.pdb
+C:\Users\eduar\Documents\GitHub\Useful_Stuff\NEO_WATCHER\NEO_WATCHER\obj\Debug\netcoreapp3.1\NEO_WATCHER.genruntimeconfig.cache
